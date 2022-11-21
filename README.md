@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Allen 
 
-<a href="https://github-readme-stats.vercel.app/api?username=allen-n&show_icons=true&theme=flag-india&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrum&show_icons=true&theme=flag-india&count_private=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=allen-n&show_icons=true&theme=radical&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allen-n&show_icons=true&theme=radical&count_private=true" />
 </a>
 
 <br/>
@@ -23,12 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github-readme-stats.vercel.app/api?username=rogerrum&show_icons=true&theme=flag-india&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrum&show_icons=true&theme=flag-india&count_private=true" />
-</a>
-
-<br/>
-<br/>
-
-![](https://komarev.com/ghpvc/?username=rogerrum)
